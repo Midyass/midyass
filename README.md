@@ -2,7 +2,6 @@
 <h3 align="center">Frontend Developer from Morocco</h3>
 
 <p align="center">
-  <strong>Creativity is loading...</strong> 🎨✨ <br>
   I'm learning to become a <strong>creative developer</strong> — building expressive and interactive experiences on the web using <strong>3D, motion, and modern design</strong>.
 </p>
 
