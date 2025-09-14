@@ -19,7 +19,7 @@
 ### 📚 Libraries & Frameworks
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,threejs," alt="Libraries and Frameworks" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,threejs" alt="Libraries and Frameworks" />
 </p>
 
 
@@ -28,7 +28,7 @@
 ### 🛠️ Tools & Platforms
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,vscode,figma," alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=git,vscode,figma" alt="Tools" />
 </p>
 
 ---
