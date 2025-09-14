@@ -19,8 +19,7 @@
 ### 📚 Libraries & Frameworks
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,threejs" alt="Libraries and Frameworks" />
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/gsap.svg" alt="GSAP" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,threejs,gsap," alt="Libraries and Frameworks" />
 </p>
 
 
