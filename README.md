@@ -19,7 +19,7 @@
 ### 📚 Libraries & Frameworks
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,threejs" alt="Libraries and Frameworks" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,threejs,express,nodejs" alt="Libraries and Frameworks" />
 </p>
 
 
