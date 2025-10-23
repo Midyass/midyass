@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Developer from Morocco</h3>
 
 <p align="center">
-  I'm a passionate <strong>full-stack developer</strong> exploring both the <strong>frontend</strong> and <strong>backend</strong> worlds — crafting expressive, interactive, and scalable web experiences with <strong>modern tools, motion, and design</strong>.
+  I'm a passionate <strong>full-stack developer</strong> creating efficient, responsive, and maintainable digital experiences.
 </p>
 
 
