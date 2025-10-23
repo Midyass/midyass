@@ -16,6 +16,14 @@
 
 ---
 
+### 🗄️ Databases
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="Databases" />
+</p>
+
+---
+
 ### 📚 Libraries & Frameworks
 
 <p align="center">
