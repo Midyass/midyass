@@ -5,7 +5,6 @@
   I'm a passionate <strong>full-stack developer</strong> creating efficient, responsive, and maintainable digital experiences.
 </p>
 
-
 ---
 
 ### 🧑‍💻 Languages
@@ -16,20 +15,19 @@
 
 ---
 
+### ⚙️ Frameworks & Libraries
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,threejs,nodejs,express" alt="Frameworks and Libraries" />
+</p>
+
+---
+
 ### 🗄️ Databases
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb" alt="Databases" />
 </p>
-
----
-
-### 📚 Libraries & Frameworks
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,threejs,express,nodejs" alt="Libraries and Frameworks" />
-</p>
-
 
 ---
 
@@ -52,4 +50,3 @@
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
   </a>
 </p>
-
