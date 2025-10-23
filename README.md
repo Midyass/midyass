@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Achraf</h1>
-<h3 align="center">Frontend Developer from Morocco</h3>
+<h3 align="center">Full-Stack Developer from Morocco</h3>
 
 <p align="center">
-  I'm learning to become a <strong>creative developer</strong> — building expressive and interactive experiences on the web using <strong>3D, motion, and modern design</strong>.
+  I'm a passionate <strong>full-stack developer</strong> exploring both the <strong>frontend</strong> and <strong>backend</strong> worlds — crafting expressive, interactive, and scalable web experiences with <strong>modern tools, motion, and design</strong>.
 </p>
 
 
