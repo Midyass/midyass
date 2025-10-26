@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Achraf</h1>
+i want merg laungaue with data wit freeme workk <h1 align="center">Hi, I'm Achraf</h1>
 <h3 align="center">Full-Stack Developer from Morocco</h3>
 
 <p align="center">
@@ -8,21 +8,35 @@
 
 ---
 
-<h3 align="center">🛠️ Tech Stack</h3>
-
+<h3 align="center">Languages</h3>
 <p align="center">
-  <strong>Languages & Frameworks:</strong><br>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,threejs,nodejs,express,mongodb" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts" alt="Languages" />
 </p>
 
+---
+
+<h3 align="center">Frameworks & Libraries</h3>
 <p align="center">
-  <strong>Tools & Platforms:</strong><br>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,threejs,nodejs,express" alt="Frameworks and Libraries" />
+</p>
+
+---
+
+<h3 align="center">Databases</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="Databases" />
+</p>
+
+---
+
+<h3 align="center">Tools & Platforms</h3>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=git,vscode,postman,figma" alt="Tools" />
 </p>
 
 ---
 
-<h3 align="center">🌐 Connect with Me</h3>
+<h3 align="center">Connect with Me</h3>
 <p align="center">
   <a href="https://github.com/Midyass" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
