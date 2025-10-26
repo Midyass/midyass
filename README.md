@@ -19,7 +19,8 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,threejs,nodejs,express" alt="Frameworks and Libraries" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/GreenSock_Logo.png" width="50" height="50" alt="GSAP" />
+<img src="https://raw.githubusercontent.com/GSAP/GSAP/main/docs/.vuepress/public/img/gsap-logo.svg" width="50" height="50" alt="GSAP" />
+
 
 </p>
 
