@@ -19,6 +19,8 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,threejs,nodejs,express" alt="Frameworks and Libraries" />
+  <!-- GSAP icon -->
+  <img src="https://gsap.com/_img/code.svg" alt="GSAP" width="50" height="50" style="vertical-align: middle; margin: 0 5px;" />
 </p>
 
 ---
