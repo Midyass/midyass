@@ -31,7 +31,7 @@
 
 <h3 align="center">Tools & Platforms</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,vscode,postman,figma,vercel" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=git,vscode,postman,figma" alt="Tools" />
 </p>
 
 ---
