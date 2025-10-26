@@ -19,7 +19,7 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,threejs,nodejs,express" alt="Frameworks and Libraries" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/greensock/greensock-original.svg" width="50" height="50" style="vertical-align: middle; margin: 0 5px;" alt="GSAP" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gsap/gsap-original.svg" width="50" height="50" alt="GSAP" />
 </p>
 
 ---
