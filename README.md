@@ -1,4 +1,4 @@
-i want merg laungaue with data wit freeme workk <h1 align="center">Hi, I'm Achraf</h1>
+<h1 align="center">Hi, I'm Achraf</h1>
 <h3 align="center">Full-Stack Developer from Morocco</h3>
 
 <p align="center">
